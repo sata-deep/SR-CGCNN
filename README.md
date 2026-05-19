@@ -6,8 +6,7 @@ This repository contains the shared-recurrent Crystal Graph Convolutional
 Neural Network code and lightweight dataset downloaders.
 
 
-<img width="1672" height="941" alt="Arch" src="https://github.com/user-attachments/assets/47b602e3-6654-42cd-b19f-0907ff93e1ad" />
-
+<img width="1672" height="941" alt="Arch" src="https://github.com/user-attachments/assets/83412696-7cef-4dff-943f-a8614c2139ae" />
 
 
 
