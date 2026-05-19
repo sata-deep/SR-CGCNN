@@ -1,6 +1,6 @@
 <!-- ****** Modified by Satadeep Bhattacharjee **** -->
 
-# SR-CGCNN
+# SR-CGCNN Shared Recurrent Convolution in Crystal Graph Neural Networks for Materials Property Prediction
 
 This repository contains the shared-recurrent Crystal Graph Convolutional
 Neural Network code and lightweight dataset downloaders.
