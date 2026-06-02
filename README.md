@@ -30,9 +30,6 @@ Neural Network code and lightweight dataset downloaders.
     └── download.py
 ```
 
-The original data files, training runs, pycache files, and manuscript
-documentation are intentionally not included.
-
 ## Dependencies
 
 Install the Python packages needed by training, prediction, and the downloaders:
