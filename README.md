@@ -99,9 +99,11 @@ If you use this code, please cite:
 
 ```bibtex
 @article{bhattacharjee2026sr,
-  title={SR-CGCNN: Shared Recurrent Convolution in Crystal Graph Neural Networks for Materials Property Prediction},
+  title={SR-CGCNN: Shared recurrent convolution in crystal graph neural networks for materials property prediction},
   author={Bhattacharjee, Satadeep},
-  journal={arXiv preprint arXiv:2605.01304},
+  journal={Computational Materials Science},
+  volume={275},
+  page={115074},
   year={2026}
 }
 ```
